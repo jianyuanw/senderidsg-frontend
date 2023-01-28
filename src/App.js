@@ -1,7 +1,7 @@
 import './App.css';
 import { useState } from 'react';
 
-const URL = 'https://damp-island-22736.herokuapp.com/';
+const URL = 'https://n7ewjhzwy6wlrkf7bu2d7hbpby0dqvfw.lambda-url.ap-southeast-1.on.aws/';
 
 function App() {
   const [from, setFrom] = useState('');
